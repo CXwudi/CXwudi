@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CXwudi&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.4&count_weight=0.6)
 
 <!--
 
