@@ -12,7 +12,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CXwudi&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell) -->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell" />
+</picture>
 
 <!--
 
