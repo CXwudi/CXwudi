@@ -18,7 +18,7 @@ This is CXwudi. A Mikufan with some serious coding skills.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
