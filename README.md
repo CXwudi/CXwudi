@@ -47,6 +47,10 @@ I've maintained several libraries, available through [JitPack](https://jitpack.i
 - [VocaDB OpenAPI Client Java](https://github.com/VocaDB/vocadb-openapi-client-java): A Java Client for the VocaDB API, automatically generated and refined.
   - To use: `implementation("com.github.VocaDB:vocadb-openapi-client-java:<version>")` [![](https://jitpack.io/v/VocaDB/vocadb-openapi-client-java.svg)](https://jitpack.io/#VocaDB/vocadb-openapi-client-java)
 
+Also some other highlights:
+
+- [LibreChat Docker Deployment](https://github.com/VocaDB/librechat-docker-deployment): A cleaner and better way to deploy [LibreChat](https://docs.librechat.ai/) using Docker, differ from the official deployment guide
+
 <!--
 
 **CXwudi/CXwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
