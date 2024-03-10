@@ -49,7 +49,7 @@ I've maintained several libraries, available through [JitPack](https://jitpack.i
 
 Also some other highlights:
 
-- [LibreChat Docker Deployment](https://github.com/VocaDB/librechat-docker-deployment): A cleaner and better way to deploy [LibreChat](https://docs.librechat.ai/) using Docker, differ from the official deployment guide
+- [LibreChat Docker Deployment](https://github.com/CXwudi/librechat-docker-deployment): A cleaner and better way to deploy [LibreChat](https://docs.librechat.ai/) using Docker, differ from the official deployment guide
 
 <!--
 
