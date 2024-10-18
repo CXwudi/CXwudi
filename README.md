@@ -50,7 +50,7 @@ I've maintained several libraries, available through [JitPack](https://jitpack.i
 Also some other highlights:
 
 - [LibreChat Docker Deployment](https://github.com/CXwudi/librechat-docker-deployment): A cleaner and better way to deploy [LibreChat](https://docs.librechat.ai/) using Docker, differ from the official deployment guide.
-- ~~[Conduit (RealWorld) Example App](https://github.com/CXwudi/realworld-compose-http4k-example-app): WIP full-stack [Conduit](https://github.com/gothinkster/realworld) example app for practicing and learning Compose Multiplatform and Http4k.~~ (Project paused, see [discussion](https://github.com/gothinkster/realworld/discussions/1545#discussioncomment-10165234))
+- [Conduit (RealWorld) Example App](https://github.com/CXwudi/realworld-compose-http4k-example-app): WIP [Conduit](https://github.com/gothinkster/realworld) example app for practicing and learning Compose Multiplatform (Slowly implementing in spare time)
 
 <!--
 
