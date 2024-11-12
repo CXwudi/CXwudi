@@ -30,7 +30,7 @@ This is CXwudi. A Mikufan with some serious coding skills.
 
 ### Projects
 
-**Disclaimer**: All projects host under this particular GitHub account (https://github.com/CXwudi) do not belong to any company. These projects are developed only with my own resources (without involving any companies' resources). 
+**Notices**: All projects host under this particular GitHub account (https://github.com/CXwudi) do not belong to any company. These projects are developed only with my own resources (without involving any companies' resources). 
 
 I maintained several personal projects:
 
