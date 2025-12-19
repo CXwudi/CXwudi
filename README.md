@@ -32,15 +32,16 @@ This is CXwudi. A Mikufan with some serious coding skills.
 
 **Notices**: All projects host under this particular GitHub account (https://github.com/CXwudi) do not belong to any company. These projects are developed only with my own resources (without involving any companies' resources). 
 
-I maintained several Personal Projects:
+#### Current Maintaining
 
+- (WIP) [Nijigen Video Site](https://github.com/CXwudi/nijigen-video-site): A fullstack video site, practicing cloud-native dev, and pushing AI tools into limit
 - [VocaDB Video Downloader](https://github.com/CXwudi/vocadb-video-downloader-new): A set of CLI apps for archiving Vocaloid PVs from various sources, based on VocaDB API and youtube-dl.
-  - [Niconico Video Downloader](https://github.com/CXwudi/Niconico-Video-Downloader): The predecessor, now archived but kept for historical reference.
-- [YouCal](https://github.com/CXwudi/youcal): A CLI app for exporting YouTrack issues with dates into one iCalendar file, importable by both Gmail and Outlook.
-- [Song Finder VocaDB](https://github.com/CXwudi/song-finder-vocadb): A semi-automated GUI app for batch song searches on VocaDB. It's a toy project for experimenting [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/).
 - [hoshizora.sql](https://github.com/CXwudi/hoshizora.sql) (Originating from VocaDB's archived [repo](https://github.com/VocaDB/hoshizora.sql)): A dockerized CLI program for loading a VocaDB dump into MariaDB, ideal for frequent and large offline queries, avoiding flooding the official VocaDB API.
 
-Practice Projects:
+#### Archived
 
-- (Done) [Conduit (RealWorld) Example App](https://github.com/CXwudi/realworld-cmp-decompose-mvikotlin-app): A frontend implementation of [Conduit](https://github.com/gothinkster/realworld) example app for practicing and learning Compose Multiplatform
-- (WIP) [Nijigen Video Site](https://github.com/CXwudi/nijigen-video-site): A fullstack video site, practicing cloud-native dev
+- [Conduit (RealWorld) Example App](https://github.com/CXwudi/realworld-cmp-decompose-mvikotlin-app): A frontend implementation of [Conduit](https://github.com/gothinkster/realworld) example app for practicing and learning [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
+- [YouCal](https://github.com/CXwudi/youcal): A CLI app for exporting YouTrack issues with dates into one iCalendar file, importable by both Gmail and Outlook.
+- [Niconico Video Downloader](https://github.com/CXwudi/Niconico-Video-Downloader): The predecessor of VocaDB Video Downloader
+- [Song Finder VocaDB](https://github.com/CXwudi/song-finder-vocadb): A semi-automated GUI app for batch song searches on VocaDB. It's a toy project for experimenting Compose Multiplatform.
+
