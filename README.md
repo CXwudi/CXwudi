@@ -4,28 +4,28 @@ This is CXwudi. A Mikufan with some serious coding skills.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CXwudi&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-woad-five-94.vercel.app/api?username=CXwudi&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CXwudi&show_icons=true"
+    srcset="https://github-readme-stats-woad-five-94.vercel.app/api?username=CXwudi&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CXwudi&show_icons=true" />
+  <img src="https://github-readme-stats-woad-five-94.vercel.app/api?username=CXwudi&show_icons=true" />
 </picture>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell) -->
+<!-- ![Top Langs](https://github-readme-stats-woad-five-94.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell) -->
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell&theme=dark"
+    srcset="https://github-readme-stats-woad-five-94.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell"
+    srcset="https://github-readme-stats-woad-five-94.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell" />
+  <img src="https://github-readme-stats-woad-five-94.vercel.app/api/top-langs/?username=CXwudi&layout=compact&exclude_repo=pixiv-following-to-rss&size_weight=0.5&count_weight=0.5&hide=shell" />
 </picture>
 
 ### Projects
